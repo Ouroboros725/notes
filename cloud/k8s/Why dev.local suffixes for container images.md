@@ -1,0 +1,3 @@
+https://redhat-developer-demos.github.io/knative-tutorial/knative-tutorial/1.0-SNAPSHOT/faq.html
+
+Knative Serving deployments by default resolve the container images to digest during the deployment process. Knative Serving has been configured to skip the resolution of image name/tag to image digest for registries ko.local and dev.local, which can be used for local development builds, as the underlying image content are subject to changes during the development process.
