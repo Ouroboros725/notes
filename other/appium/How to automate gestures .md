@@ -56,3 +56,5 @@ JavascriptExecutor js = (JavascriptExecutor) driver;
     scrollObject.put("direction", "down");
     js.executeScript("mobile: scroll", scrollObject);
 ```
+
+https://nishantverma.gitbooks.io/appium-for-android/content/automating_gestures/index.html

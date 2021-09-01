@@ -1,3 +1,5 @@
+https://stackoverflow.com/questions/68113/how-to-create-a-windows-service-from-java-app
+
 I've had some luck with [the Java Service Wrapper][1]
 
 
